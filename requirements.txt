@@ -1,0 +1,7 @@
+streamlit
+tf-nightly
+opencv-python-headless
+pillow
+numpy
+pandas
+reportlab

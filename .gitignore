@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.log
+# Ignore temp images only
+temp/
+*.jpg
+*.pdf
+
+# Allow assets
+!assets/
+!assets/*.png
